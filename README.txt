@@ -3,7 +3,7 @@
 $ git clone https://github.com/ynym-bns/ynym-bns-readable-code
 
 2. プログラムを実行する
-python print_better.py
+python main.py
 
 ---データファイル(dictionary-data.txt)について---
-・txtファイルとして better_string = "上手" を保存
+・上手、一時、市場 をテキストとして保存
