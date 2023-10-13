@@ -1,1 +1,5 @@
-# ynym-bns-readable-code
+# 名前
+米山 芽生樹
+
+# 趣味
+筋トレ、鍵盤楽器
