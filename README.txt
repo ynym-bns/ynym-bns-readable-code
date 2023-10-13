@@ -3,6 +3,16 @@
 $ git clone https://github.com/ynym-bns/ynym-bns-readable-code
 
 2. プログラムを実行する
+
+## 全単語表示
+
+python main.py       
+>>> 1: 上手
+>>> 2: 一時
+>>> 3: 市場
+
+## IDを指定して表示
+
 python main.py {単語のID}
 
 例:
